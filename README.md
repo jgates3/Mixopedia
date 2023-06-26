@@ -8,5 +8,5 @@ Mixopedia is a Python application that uses Tkinter GUI and shows information ab
 - Displays instructions on how to make each drink and lists out each ingredient needed for the drink.
 - Displays instructions in English, Dutch or Italian.
 - Has a "Buy Drink" button that opens a web browser and goes to a Google Shopping link that contains that specific drink.
-- Displays descriptions or interesting trivia for each drink.
+- Displays custom descriptions or interesting trivia for each drink, which was gathered through data collection.
 - Has a "Random" button that searches for a random drink. 
